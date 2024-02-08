@@ -1,4 +1,4 @@
-![IMG](/blob/main/Hangman.png)
+![IMG](Hangman.png)
 # Wisielec (Hangman) - Pygame
  [PL]
  Prosta gra w wisielca z kategoriami i punktami.
