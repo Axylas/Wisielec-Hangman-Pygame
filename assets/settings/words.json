@@ -1,0 +1,129 @@
+{
+    "Zwierzęta": {
+        "Pies": ["Ma cztery nogi", "Najlepszy przyjaciel człowieka", "Może szczekać"],
+        "Kot": ["Ma cztery nogi", "Lubi siedzieć na kolanach", "Może miauczeć"],
+        "Ryba": ["Mieszka w wodzie", "Może pływać", "Ma łuski"],
+        "Słoń": ["Mieszka w Afryce i Azji", "Ma długą trąbę", "Jest dużym ssakiem"],
+        "Koń": ["Często jeździ się na nim", "Ma cztery nogi", "Może rżeźć"]
+    },
+    "Kraje": {
+        "Polska": ["W Europie", "Stolica to Warszawa", "Biało-czerwona flaga"],
+        "Niemcy": ["W Europie", "Stolica to Berlin", "Mają piwo i kiełbasę"],
+        "Francja": ["W Europie", "Stolica to Paryż", "Wieża Eiffla"],
+        "Japonia": ["W Azji", "Stolica to Tokio", "Mają sushi"],
+        "Brazylia": ["W Ameryce Południowej", "Stolica to Brasilia", "Karnawał w Rio"]
+    },
+    "Miasta": {
+        "Ciechanów": ["W Mazowszu", "PANSIM", "Quebonafide"],
+        "Kraków": ["W Polsce", "Ma Wawel", "Stare Miasto"],
+        "Nowy jork": ["W USA", "Statua Wolności", "Times Square"],
+        "Tokio": ["W Japonii", "Wieże i neony", "Shibuya Crossing"],
+        "Londyn": ["W Wielkiej Brytanii", "Ma Tower Bridge", "Czerwone autobusy"]
+    },
+    "Historia": {
+        "Kleopatra": ["Królowa Egiptu", "Związek z Markiem Antoniuszem", "Umrzeć od ukąszenia węża"],
+        "Napoleon": ["Francuski cesarz", "Bitwa pod Waterloo", "Wygnanie na Elbę"],
+        "Kolumb": ["Odkrywca Ameryki", "Podróż w 1492 roku", "Trzy statki"],
+        "Hitler": ["Przywódca Niemiec", "II wojna światowa", "Mein Kampf"],
+        "Leonardo da Vinci": ["Renesansowy geniusz", "Malował Ostatnią Wieczerzę", "Wynalazca i artysta"]
+    },
+    "Rzeki": {
+        "Wisła": ["Przepływa przez Polskę", "Uchodzi do Bałtyku", "Najdłuższa rzeka w Polsce"],
+        "Nil": ["W Egipcie", "Najdłuższa rzeka na świecie", "Krokodyle i piramidy"],
+        "Amazonka": ["W Ameryce Południowej", "Przez las deszczowy", "Bogata fauna i flora"],
+        "Mississippi": ["W USA", "Przepływa przez wiele stanów", "Mark Twain"],
+        "Tamiza": ["W Anglii", "Przepływa przez Londyn", "Wielka rzeka w Wielkiej Brytanii"]
+    },
+    "Jeziora": {
+        "Baikal": ["W Rosji", "Najgłębsze jezioro na świecie", "Czysta i zimna woda"],
+        "Tanganika": ["W Afryce", "Jedno z Wielkich Jezior Afrykańskich", "Długa i wąska forma"],
+        "Tahoe": ["W USA", "Góry Sierra Nevada", "Popularne miejsce na wakacje"],
+        "Winnipeg": ["W Kanadzie", "Duża powierzchnia", "W Manitoba"],
+        "Neś": ["W Szkocji", "Potwór z Loch Ness", "Głębokie i tajemnicze"]
+    },
+    "Góry": {
+        "Himalaje": ["W Azji", "Najwyższy szczyt: Mount Everest", "Granica między Nepalem a Tybetem"],
+        "Alpy": ["W Europie", "Popularne miejsce na narciarstwo", "Mont Blanc to najwyższy szczyt"],
+        "Tatry": ["W Polsce i na Słowacji", "Zakopane jako turystyczne centrum", "Giewont z krzyżem na szczycie"],
+        "Andy": ["W Ameryce Południowej", "Długa górska łańcuch", "Przepływa przez kilka krajów"],
+        "Ural": ["W Rosji", "Rozdziela Europę od Azji", "Bogate w minerały"]
+    },
+    "Planety": {
+        "Merkury": ["Najbliżej Słońca", "Brak atmosfery", "Skrajne temperatury"],
+        "Wenus": ["Podobna wielkość do Ziemi", "Gęsta atmosfera", "Jasna planeta na niebie"],
+        "Mars": ["Czerwona Planeta", "Szukanie życia", "Wielki kanion Valles Marineris"],
+        "Jowisz": ["Największa planeta", "Wielka Czerwona Plama", "Posiada wiele księżyców"],
+        "Saturn": ["Pierścienie planety", "Druga co do wielkości", "Księżyc Titan"]
+    },
+    "Skały": {
+        "Granit": ["Krystaliczna", "Używany w budownictwie", "Różne kolory"],
+        "Bazalt": ["Wulkaniczny", "Czarny lub szary", "Formacje kolumnowe"],
+        "Marmur": ["Metamorficzna", "Używany w rzeźbie", "Gładki i biały"],
+        "Łupki": ["Osadowa", "Warstwowa tekstura", "Używany na dachy"],
+        "Piaskowiec": ["Osadowa", "Tworzony z ziaren piasku", "Może być różowy, czerwony lub biały"]
+    },
+    "Rośliny": {
+        "Róża": ["Kwiat", "Symbol miłości", "Ma kolce"],
+        "Dąb": ["Drzewo", "Tworzy żołędzie", "Mocne i długowieczne drzewo"],
+        "Tulipan": ["Kwiat", "Pochodzi z Turcji", "Popularny w Holandii"],
+        "Kaktus": ["Roślina pustynna", "Ma kolce", "Przechowuje wodę wewnątrz"],
+        "Bambus": ["Roślina azjatycka", "Szybko rosnąca", "Panda je ją"]
+    },
+    "Jedzenie": {
+        "Pizza": ["Włoskie danie", "Z ciasta, sera i sosu pomidorowego", "Może mieć różne dodatki"],
+        "Sushi": ["Japońskie danie", "Ryż i surowa ryba", "Zawijane w wodorosty"],
+        "Pierogi": ["Polskie danie", "Nadzienie z serem, mięsem lub kapustą", "Gotowane w wodzie"],
+        "Taco": ["Meksykańskie danie", "Płaski chleb z różnymi dodatkami", "Może być pikantne"],
+        "Curry": ["Indyjskie danie", "Przyprawione i pikantne", "Często z kurczakiem lub warzywami"]
+    },
+    "Alkohole": {
+        "Piwo": ["Chmielowy napój", "Popularny w Niemczech", "Jasne lub ciemne"],
+        "Wino": ["Z winogron", "Białe, czerwone lub różowe", "Francja i Włochy to główne producenty"],
+        "Whisky": ["Szkocki napój", "Destylowany z ziaren", "Dojrzewa w beczkach dębowych"],
+        "Tequila": ["Meksykański alkohol", "Z agawy", "Pijany z solą i cytryną"],
+        "Wódka": ["Czysty alkohol", "Popularny w Polsce i Rosji", "Często pijany na czysto"]
+    },
+    "Gry": {
+        "Minecraft": ["Sandboxowy", "Kwadratowe bloki", "Kopalnie i potwory"],
+        "Wiedźmin": ["Fabularna", "Główny bohater to Geralt", "Opiera się na książkach"],
+        "Mario": ["Platformówka", "Główny bohater to hydraulik", "Zbiera monety i ratuje księżniczkę"],
+        "Counter-Strike": ["Strzelanka", "Terrożyści kontra antyterrożyści", "Zakupy broni przed rundą"],
+        "Zelda": ["Przygodowa", "Główny bohater to Link", "Ratuje księżniczkę Zeldę"]
+    },
+    "Filmy": {
+        "Titanic": ["Romantyczny", "Statek i góra lodowa", "Leonardo DiCaprio i Kate Winslet"],
+        "Incepcja": ["Sci-fi", "Światy snów", "Leonardo DiCaprio w głównej roli"],
+        "Shrek": ["Animowany", "Zielony ogr", "Parodia bajek"],
+        "Ojciec chrzestny": ["Gangsterski", "Rodzina mafijna Corleone", "Marlon Brando w głównej roli"],
+        "Harry potter": ["Fantastyczny", "Czarnoksiężnik Voldemort", "Szkoła magii Hogwart"]
+    },
+    "Muzyka": {
+        "The beatles": ["Zespół rockowy", "Z Liverpoolu", "John, Paul, George, Ringo"],
+        "Beethoven": ["Kompozytor klasyczny", "Niemiecki", "Dla Elizy i IX Symfonia"],
+        "Madonna": ["Królowa Popu", "Z USA", "Material Girl i Vogue"],
+        "Bob marley": ["Reggae", "Z Jamajki", "No Woman, No Cry"],
+        "Nirvana": ["Rock alternatywny", "Kurt Cobain", "Smells Like Teen Spirit"]
+    },
+    "Książki": {
+        "Hobbit": ["Fantastyka", "J.R.R. Tolkien", "Podróż Bilbo Bagginsa"],
+        "Duma i uprzedzenie": ["Romans", "Jane Austen", "Elizabeth Bennet i Mr Darcy"],
+        "1984": ["Dystopia", "George Orwell", "Wielki Brat patrzy"],
+        "Moby dick": ["Przygodowa", "Herman Melville", "Pościg za wielorybem"],
+        "Złodziejka książek": ["Dramat", "Markus Zusak", "Dziewczyna kradnie książki w czasie II wojny światowej"]
+    },
+    "Programowanie": {
+        "Python": ["Język skryptowy", "Wąż jako logo", "Używany w analizie danych"],
+        "Java": ["Obiektowy", "Używany w aplikacjach Android", "Wirtualna maszyna Javy"],
+        "C++": ["Rozszerzenie C", "Szybki i wydajny", "Używany w grach i systemach"],
+        "Javascript": ["Dla przeglądarek", "Asynchroniczność", "Node.js dla serwerów"],
+        "Html": ["Nie jest językiem programowania", "Struktura strony internetowej", "Używany z CSS i JS"]
+    },
+    "Informatyka": {
+        "Procesor": ["Mózg komputera", "Wykonuje operacje", "Intel i AMD jako główni producenci"],
+        "Ram": ["Pamięć krótkotrwała", "Szybki dostęp", "DDR4 i DDR5"],
+        "Dysk twardy": ["Przechowywanie danych", "HDD i SSD", "Mierzone w GB i TB"],
+        "System operacyjny": ["Zarządza sprzętem", "Windows, Linux, MacOS", "Interfejs użytkownika"],
+        "Gpu": ["Grafika", "Rysuje obrazy na ekranie", "Nvidia i AMD jako główni producenci"]
+    }
+}
+
