@@ -11,6 +11,8 @@
  ### Licencja: <br>
  Dostępna w pliku License.txt w repozytorium. <br>
  Należy zapoznać się z treścią. <br>
+ 
+ _______
 
  **[ENG]** <br>
  Simple hangman game with categories and points. <br>
