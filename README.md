@@ -1,6 +1,6 @@
 ![IMG](Hangman.png)
 # Wisielec (Hangman) - Pygame
- [PL]
+ [PL] <br>
  Prosta gra w wisielca z kategoriami i punktami.<br>
  Projekt napisany na potrzeby studiów PANS w Ciechanowie. (Rok II, Semestr Zimowy)<br> <br>
  
